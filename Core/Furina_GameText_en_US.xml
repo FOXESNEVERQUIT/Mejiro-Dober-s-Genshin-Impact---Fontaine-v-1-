@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/19/2015 8:38:35 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_FURINA_C4T">
+			<Text>Furina [ICON_CULTURE][ICON_GREAT_PEOPLE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_DESC">
+			<Text>Fontaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_HEADING_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_TITLE">
+			<Text>Fontaine(Furina)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_SHORT_DESC">
+			<Text>Fontaine(Furina)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_ADJECTIVE">
+			<Text>Fontaine(Furina)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_FURINA_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_00">
+			<Text>Court of Fontaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_01">
+			<Text>Opera Epiclese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_02">
+			<Text>Fountain of Lucine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_03">
+			<Text>Marcotte Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_04">
+			<Text>Romaritime Harbor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_05">
+			<Text>Mont Automnequi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_06">
+			<Text>Poisson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_07">
+			<Text>Elynas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_08">
+			<Text>Fortress of Meropide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_09">
+			<Text>New Fontaine Research Institute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_10">
+			<Text>Erinnyes Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_11">
+			<Text>Petrichor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_12">
+			<Text>Chemin de L'Espoir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_13">
+			<Text>Salacia Plain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_14">
+			<Text>Elton Trench</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_15">
+			<Text>Mont Esus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_16">
+			<Text>Remuria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_17">
+			<Text>Sealed Ruined Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_18">
+			<Text>Mary-Ann Memorial Park</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_0">
+			<Text>Lumine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_1">
+			<Text>Wriothesley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_2">
+			<Text>Charlotte</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_3">
+			<Text>Clorinde</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_4">
+			<Text>Chevreuse</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_5">
+			<Text>Neuvillette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_6">
+			<Text>Focalors</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_7">
+			<Text>Sigewinne</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_8">
+			<Text>Navia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_9">
+			<Text>Lynette</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA">
+			<Text>Furina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_HEADING_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_NAME">
+			<Text>Furina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_SUBTITLE">
+			<Text>All the water, the people, and the queen who rules the law</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_TITLES_1">
+			<Text>All the water, the people, and the queen who rules the law</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FURINA">
+			<Text>You can convert Arche's forces to Pneuma or Ousia by the upper panel, and each force will have different properties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FURINA_SHORT">
+			<Text>Endless Solo of Solitude</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_FURINA_DESC">
+			<Text>Opera House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FURINA_HELP">
+			<Text>Replaces the opera house. It has two Great Work of Music slots and two Musician slots, and offers thematic bonuses and different bonuses depending on the state of Furina if the masterpiece slots are filled only with music made by the same civilization in the same era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FURINA_STRATEGY">
+			<Text>Opera House offers thematic bonuses and different bonuses depending on the state of Furina if the masterpiece slots are filled only with music made by the same civilization in the same era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FURINA_PEDIA">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FURINA">
+			<Text>Opera Actor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FURINA_HELP">
+			<Text>The unique unit of Furina. Appears when a Great Musician or Writer is born. Opera Actor can hold a concert or write a political paper, and you get an extra bonus based on His or her condition whenever you use it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FURINA_STRATEGY">
+			<Text>Opera Actor can hold a concert or write a political paper, and you get an extra bonus based on her condition whenever you use it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_FURINA_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA">
+			<Text>The Power of Arche: Ousia</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_HELP">
+			<Text>+25% Combat Strength Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the Great Work Slots are all filled with Musics from the same Era and Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_FURINA">
+			<Text>Prima Donna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_DUMMY">
+			<Text>무대 등장</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_DUMMY_HELP">
+			<Text>이 유닛은 문명이라는 무대에 등장했습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FURINA_ARKHE">
+			<Text>You have {1_FurinaArkheTurn} turn left before you can change the power of Arche.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_ARKHE_2">
+			<Text>You can change the Arche's power to what you want by pressing the button at the bottom.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FURINA_OUSIA_INFO">
+			<Text>The Power of Arche: Ousia[NEWLINE]--------------------[NEWLINE]In the Ousia state, all ground units increase their combat power by 25% near fresh water. In addition, if the Opera House's theming bonus condition is met, the city provides 15 experiences when producing military units. In addition, whenever an Opera Actor is used, he or she spreads tourism as much as tourism per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_PNEUMA_INFO">
+			<Text>The Power of Arche: Pneuma[NEWLINE]--------------------[NEWLINE]In the Pneuma state, every ground unit restores 10 HP near fresh water at each turn. In addition, if the Opera House's theming bonus condition is met, a golden age score of 10 is earned every turn. In addition, whenever an Opera Actor is consumed, gains culture as much as culture per turn.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_C4T">
+			<Text>Neuvillette [ICON_PRODUCTION][ICON_GREAT_PEOPLE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_DESC">
+			<Text>Fontaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_HEADING_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_TITLE">
+			<Text>Fontaine(Neuvillette)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_SHORT_DESC">
+			<Text>Fontaine(Neuvillette)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_ADJECTIVE">
+			<Text>Fontaine(Neuvillette)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_NEUVILLETTE_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_00">
+			<Text>Court of Fontaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_01">
+			<Text>Opera Epiclese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_02">
+			<Text>Fountain of Lucine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_03">
+			<Text>Marcotte Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_04">
+			<Text>Romaritime Harbor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_05">
+			<Text>Mont Automnequi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_06">
+			<Text>Poisson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_07">
+			<Text>Elynas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_08">
+			<Text>Fortress of Meropide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_09">
+			<Text>New Fontaine Research Institute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_10">
+			<Text>Erinnyes Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_11">
+			<Text>Petrichor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_12">
+			<Text>Chemin de L'Espoir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_13">
+			<Text>Salacia Plain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_14">
+			<Text>Elton Trench</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_15">
+			<Text>Mont Esus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_16">
+			<Text>Remuria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_17">
+			<Text>Sealed Ruined Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_18">
+			<Text>Mary-Ann Memorial Park</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_0">
+			<Text>Lumine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_1">
+			<Text>Wriothesley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_2">
+			<Text>Charlotte</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_3">
+			<Text>Clorinde</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_4">
+			<Text>Chevreuse</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_5">
+			<Text>Furina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_6">
+			<Text>Focalors</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_7">
+			<Text>Sigewinne</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_8">
+			<Text>Navia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_9">
+			<Text>Lynette</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE">
+			<Text>Neuvillette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_HEADING_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_NAME">
+			<Text>Neuvillette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_SUBTITLE">
+			<Text>The Chief Iudex of Fontaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_TITLES_1">
+			<Text>The Chief Iudex of Fontaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEUVILLETTE">
+			<Text>Whenever you are denounced or declared war by an enemy, or your unit or a unit of civilization hostile to you is removed, the Judgment Gauge accumulates. When the Judgment Gauge is maximized, you can judge an enemy city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEUVILLETTE_SHORT">
+			<Text>Ordainer of Inexorable Judgment</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_DESC">
+			<Text>The Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_HELP">
+			<Text>Replaces the Courts. Unlike courts, they can be built in any city and have lower maintenance costs compared to original courts. It accumulates a small amount of Judgment Gauge at every turn, increasing them even more if the city where this building is built has fresh water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_STRATEGY">
+			<Text>The Court can be built in any city and have lower maintenance costs compared to original courts. It accumulates a small amount of Judgment Gauge at every turn, increasing them even more if the city where this building is built has fresh water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NEUVILLETTE_PEDIA">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_DESC">
+			<Text>Marechaussee Phantom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_HELP">
+			<Text>Replaces the Police Station. Can be built without Stable. It accumulates a small amount of Judgment Gauge at every turn, increasing them even more if the city where this building is built has fresh water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_STRATEGY">
+			<Text>Marechaussee Phantom can be built without Stable. It accumulates a small amount of Judgment Gauge at every turn, increasing them even more if the city where this building is built has fresh water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NEUVILLETTE_2_PEDIA">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEUVILLETTE_JUDGMENT_PROGRESS">
+			<Text>Judgment Gauge[NEWLINE][NEWLINE]Neuvillette gains Judgment Gauge by certain actions. When it is over 300, you can judge a other city or a city state by clicking the bar(use 300 gauge).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEUVILLETTE_JUDGMENT_PROGRESS_2">
+			<Text>Judgment Gauge : [COLOR:128:198:148:255]{1_Num} / 300[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag='TXT_KEY_ALERT_NEUVILLETTE_JUDGMENT'>
+			<Text>Refereeed the city.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

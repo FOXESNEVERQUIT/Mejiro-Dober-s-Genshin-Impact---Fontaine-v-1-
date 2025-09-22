@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/26/2013 1:17:25 PM -->
+<Context ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" Name="Furina" Hidden="0">
+	<Grid ID="Arkhe" Offset="0,34" Anchor="C,T"  Size="167,153" Color="White.256" Style="Grid9DetailTwo140" Padding="70,50" ConsumeMouse="0">
+		<Button ID="Ousia" Size="64,64" Anchor="C,C" Offset="-33,0" Color="20,20,20,0" ToolTip="TXT_KEY_FURINA_OUSIA_INFO">
+			<Image Anchor="R,C" Offset="0,0" Size="64,64" Color="255,255,255,255"  Texture="Furina_BackGround_Timer.dds"/>
+			<Image Anchor="R,C" Offset="0,0" Size="64,64" Color="255,255,255,255"  Texture="Furina_Ousia.dds"  ID="Furina_ChoiceOne">
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="C,C"  AnchorSide="O.O" Offset="0,0" Size="64,64" Pause="0" Texture="Furina_Overlay.dds" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25"/>
+				</ShowOnMouseOver>
+				<Label Anchor="C,C" Offset="0,0" Font="TwCenMT24" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Hidden="1" ID="Ousia_Activate"/>
+			</Image>
+		</Button>
+		<Button ID="Pneuma" Size="64,64" Anchor="C,C" Offset="33,0" Color="20,20,20,0" ToolTip="TXT_KEY_FURINA_PNEUMA_INFO">
+			<Image Anchor="R,C" Offset="0,0" Size="64,64" Color="255,255,255,255"  Texture="Furina_BackGround_Timer.dds"/>
+			<Image Anchor="R,C" Offset="0,0" Size="64,64" Color="255,255,255,255"  Texture="Furina_Pneuma.dds"  ID="Furina_ChoiceTwo">
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="C,C"  AnchorSide="O.O" Offset="0,0" Size="64,64" Pause="0" Texture="Furina_Overlay.dds" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25"/>
+				</ShowOnMouseOver>
+			</Image>
+			<Label Anchor="C,C" Offset="0,0" Font="TwCenMT24" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Hidden="1" ID="Pneuma_Activate"/>
+		</Button>
+	</Grid>
+	<Grid ConsumeMouse="0" Padding="70,50" Style="Grid9DetailTwo140" Color="White.256"  Size="100,100" Anchor="C,T" Offset="0,-15" ID="Arkhe2">
+		<Label FontStyle="Shadow" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" Anchor="C,C" Offset="0,0" ID="Furina_Arkhe">
+
+		</Label>
+	</Grid>
+</Context>

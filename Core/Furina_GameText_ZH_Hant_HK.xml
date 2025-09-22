@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2023-09-17 오후 5:27:55 -->
+<GameData>
+	<Language_ZH_Hant_HK>
+		<Row Tag="TXT_KEY_LEADER_FURINA_C4T">
+			<Text>芙宁娜 [ICON_CULTURE][ICON_GREAT_PEOPLE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_DESC">
+			<Text>枫丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_HEADING_1">
+			<Text>枫丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_TEXT_1">
+			<Text>枫丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_TITLE">
+			<Text>枫丹(芙宁娜)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_SHORT_DESC">
+			<Text>枫丹(芙宁娜)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_ADJECTIVE">
+			<Text>枫丹(芙宁娜)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_FURINA_TEXT">
+			<Text>枫丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_00">
+			<Text>枫丹廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_01">
+			<Text>欧庇克莱歌剧院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_02">
+			<Text>露景泉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_03">
+			<Text>茉洁站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_04">
+			<Text>海露港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_05">
+			<Text>秋分山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_06">
+			<Text>白淞镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_07">
+			<Text>厄里那斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_08">
+			<Text>梅洛彼得堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_09">
+			<Text>新枫丹科学院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_10">
+			<Text>伊黎耶林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_11">
+			<Text>佩特莉可</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_12">
+			<Text>希望之路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_13">
+			<Text>塞洛海原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_14">
+			<Text>埃尔顿海沟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_15">
+			<Text>芒索斯山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_16">
+			<Text>雷穆利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_17">
+			<Text>闭锁的遗迹塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_18">
+			<Text>玛丽安纪念公园</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_0">
+			<Text>荧</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_1">
+			<Text>莱欧斯利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_2">
+			<Text>夏洛蒂</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_3">
+			<Text>克洛琳德</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_4">
+			<Text>夏沃蕾</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_5">
+			<Text>那维莱特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_6">
+			<Text>芙卡洛斯</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_7">
+			<Text>希格雯</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_8">
+			<Text>娜维娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_9">
+			<Text>琳妮特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA">
+			<Text>芙宁娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_HEADING_1">
+			<Text>芙宁娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_TEXT_1">
+			<Text>芙宁娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_NAME">
+			<Text>芙宁娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_SUBTITLE">
+			<Text>所有水、百姓和法治女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_TITLES_1">
+			<Text>所有水、百姓和法治女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FURINA">
+			<Text>顶部面板允许将氩气中的力转化为芒性或荒性，并且每种力的应用特性都不同。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FURINA_SHORT">
+			<Text>不休独舞</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_FURINA_DESC">
+			<Text>歌剧院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FURINA_HELP">
+			<Text>取代歌剧院。 分别拥有2个杰作音乐插槽和音乐家专家插槽，如果杰作插槽只用同一时代同一文明创作的音乐填满，则根据主题奖金和芙宁娜的状态提供不同的奖金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FURINA_STRATEGY">
+			<Text>分别拥有2个杰作音乐插槽和音乐家专家插槽，如果杰作插槽只用同一时代同一文明创作的音乐填满，则根据主题奖金和芙宁娜的状态提供不同的奖金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FURINA_PEDIA">
+			<Text>歌剧院</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FURINA">
+			<Text>歌剧演员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FURINA_HELP">
+			<Text>芙宁娜独有的小分队。 伟大的音乐家或作家诞生时登场。 可举办音乐会或撰写政治论文，每次消耗时根据芙宁娜的状况获得额外奖金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FURINA_STRATEGY">
+			<Text>芙宁娜独有的小分队。 伟大的音乐家或作家诞生时登场。 可举办音乐会或撰写政治论文，每次消耗时根据芙宁娜的状况获得额外奖金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_FURINA_TEXT">
+			<Text>歌剧演员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA">
+			<Text>始基力: 荒性</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_HELP">
+			<Text>战斗力增加25%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_THEMING_BONUS_HELP">
+			<Text>为了获得奖金，所有的杰作插槽都用同一时代同一文明创作的音乐填满。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_FURINA">
+			<Text>女主角</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_DUMMY">
+			<Text>무대 등장</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_DUMMY_HELP">
+			<Text>이 유닛은 문명이라는 무대에 등장했습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FURINA_ARKHE">
+			<Text>距离改变始基力的力量还有{1_FurinaArkheTurn}圈。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_ARKHE_2">
+			<Text>按下底部的按钮，你可以将始基力的力量更改为你想要的。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FURINA_OUSIA_INFO">
+			<Text>始基力: 荒性[NEWLINE]--------------------[NEWLINE]荒性状态时，所有地面单元在淡水附近战斗力增加 25%。 同时，符合歌剧院主题奖金条件的，提供本市军事单元生产经验值15。 同时，每当消耗歌剧演员时，都会按照自己的每圈旅游来传播旅游。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_PNEUMA_INFO">
+			<Text>始基力: 芒性[NEWLINE]--------------------[NEWLINE]芒性状态时，每个地面单元在淡水附近恢复10次体力。 同时，如果符合歌剧院的主题奖金条件，黄金时期每秒可获得10分。 同时，每当消耗歌剧演员时，就会立即获得相当于自己转圈文化程度的文化。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_C4T">
+			<Text>那维莱特 [ICON_PRODUCTION][ICON_GREAT_PEOPLE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_DESC">
+			<Text>枫丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_HEADING_1">
+			<Text>枫丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_TEXT_1">
+			<Text>枫丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_TITLE">
+			<Text>枫丹(那维莱特)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_SHORT_DESC">
+			<Text>枫丹(那维莱特)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_ADJECTIVE">
+			<Text>枫丹(那维莱特)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_NEUVILLETTE_TEXT">
+			<Text>枫丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_00">
+			<Text>枫丹廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_01">
+			<Text>欧庇克莱歌剧院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_02">
+			<Text>露景泉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_03">
+			<Text>茉洁站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_04">
+			<Text>海露港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_05">
+			<Text>秋分山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_06">
+			<Text>白淞镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_07">
+			<Text>厄里那斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_08">
+			<Text>梅洛彼得堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_09">
+			<Text>新枫丹科学院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_10">
+			<Text>伊黎耶林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_11">
+			<Text>佩特莉可</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_12">
+			<Text>希望之路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_13">
+			<Text>塞洛海原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_14">
+			<Text>埃尔顿海沟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_15">
+			<Text>芒索斯山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_16">
+			<Text>雷穆利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_17">
+			<Text>闭锁的遗迹塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_18">
+			<Text>玛丽安纪念公园</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_0">
+			<Text>荧</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_1">
+			<Text>莱欧斯利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_2">
+			<Text>夏洛蒂</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_3">
+			<Text>克洛琳德</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_4">
+			<Text>夏沃蕾</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_5">
+			<Text>芙宁娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_6">
+			<Text>芙卡洛斯</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_7">
+			<Text>希格雯</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_8">
+			<Text>娜维娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_9">
+			<Text>琳妮特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE">
+			<Text>那维莱特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_HEADING_1">
+			<Text>那维莱特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_TEXT_1">
+			<Text>那维莱特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_NAME">
+			<Text>那维莱特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_SUBTITLE">
+			<Text>枫丹首席裁判官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_TITLES_1">
+			<Text>枫丹首席裁判官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEUVILLETTE">
+			<Text>每当你被敌人谴责或宣战，或者你的单位或一个敌视你的文明单位被移除时，判断标准就会累积起来。 当判断标准最大化时，您可以判断敌方城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEUVILLETTE_SHORT">
+			<Text>谕告的潮音</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_DESC">
+			<Text>审判庭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_HELP">
+			<Text>取代法院。 与法院不同，它们可以在任何城市建造，与原始法院相比，维护成本更低。 它在每个转弯处都会积累少量的判断量规，如果建造这座建筑的城市有淡水，它们就会增加更多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_STRATEGY">
+			<Text>与法院不同，它们可以在任何城市建造，与原始法院相比，维护成本更低。 它在每个转弯处都会积累少量的判断量规，如果建造这座建筑的城市有淡水，它们就会增加更多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NEUVILLETTE_PEDIA">
+			<Text>审判庭</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_DESC">
+			<Text>逐影庭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_HELP">
+			<Text>取代警察局。 它可以在没有稳定的情况下构建。 它在每个转弯处都会积累少量的判断量规，如果建造这座建筑的城市有淡水，它们就会增加更多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_STRATEGY">
+			<Text>它可以在没有稳定的情况下构建。 它在每个转弯处都会积累少量的判断量规，如果建造这座建筑的城市有淡水，它们就会增加更多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NEUVILLETTE_2_PEDIA">
+			<Text>逐影庭</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEUVILLETTE_JUDGMENT_PROGRESS">
+			<Text>判断力[NEWLINE][NEWLINE]那维莱特通过某些行为获得判断力 当它超过300时，你可以通过点击栏（使用300规）来判断其他城市或城市状态。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEUVILLETTE_JUDGMENT_PROGRESS_2">
+			<Text>判断力 : [COLOR:128:198:148:255]{1_Num} / 300[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag='TXT_KEY_ALERT_NEUVILLETTE_JUDGMENT'>
+			<Text>审判了城市。</Text>
+		</Row>
+	</Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2023-09-17 오후 5:27:51 -->
+<GameData>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_FURINA_C4T">
+			<Text>フリーナ [ICON_CULTURE][ICON_GREAT_PEOPLE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_DESC">
+			<Text>フォンテーヌ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_HEADING_1">
+			<Text>フォンテーヌ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_TEXT_1">
+			<Text>フォンテーヌ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_TITLE">
+			<Text>フォンテーヌ(フリーナ)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_SHORT_DESC">
+			<Text>フォンテーヌ(フリーナ)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_ADJECTIVE">
+			<Text>フォンテーヌ(フリーナ)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_FURINA_TEXT">
+			<Text>フォンテーヌ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_00">
+			<Text>フォンテーヌ廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_01">
+			<Text>エピクレシス歌劇場</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_02">
+			<Text>ルキナの泉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_03">
+			<Text>ポート・マルコット</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_04">
+			<Text>ロマリタイムハーバー</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_05">
+			<Text>オトンヌキ山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_06">
+			<Text>ポワソン町</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_07">
+			<Text>エリナス</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_08">
+			<Text>メロピデ要塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_09">
+			<Text>新フォンテーヌ科学院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_10">
+			<Text>エリニュス山林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_11">
+			<Text>ペトリック</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_12">
+			<Text>希望之路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_13">
+			<Text>サラシア大海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_14">
+			<Text>エルトン海溝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_15">
+			<Text>エスス山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_16">
+			<Text>レムリア</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_17">
+			<Text>閉ざされた遺跡の塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_18">
+			<Text>マリアン記念公園</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_0">
+			<Text>蛍</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_1">
+			<Text>リオセスリ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_2">
+			<Text>シャルロット</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_3">
+			<Text>クロリンデ</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_4">
+			<Text>シュヴルーズ</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_5">
+			<Text>ヌヴィレット</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_6">
+			<Text>フォカロルス</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_7">
+			<Text>シグウィン</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_8">
+			<Text>ナヴィア</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_9">
+			<Text>リネット</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA">
+			<Text>フリーナ</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_HEADING_1">
+			<Text>フリーナ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_TEXT_1">
+			<Text>フリーナ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_NAME">
+			<Text>フリーナ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_SUBTITLE">
+			<Text>すべての水と民、そして法を治める女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_TITLES_1">
+			<Text>すべての水と民、そして法を治める女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FURINA">
+			<Text>上部パネルを利用してアルケーの力をプネウマまたはウーシアに切り替えることができ、それぞれの力によって適用される特性が異なります。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FURINA_SHORT">
+			<Text>不休のソリスト</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_FURINA_DESC">
+			<Text>歌劇場</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FURINA_HELP">
+			<Text>オペラ劇場に取って代わります。 傑作音楽スロットと音楽家専門家スロットをそれぞれ2つずつ保有し、傑作スロットを同じ時代に同じ文明が作った音楽だけで満たした場合、テーマボーナスおよびフリーナの状態によってそれぞれ異なるボーナスを提供します。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FURINA_STRATEGY">
+			<Text>歌劇場の傑作スロットを同じ時代に同じ文明が作った音楽だけで満たした場合、テーマボーナスおよびフリーナの状態によってそれぞれ異なるボーナスを提供します。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FURINA_PEDIA">
+			<Text>歌劇場</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FURINA">
+			<Text>オペラ俳優</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FURINA_HELP">
+			<Text>フリーナならではの固有ユニットです。 偉大なミュージシャンまたは作家が誕生したときに登場します。 コンサートを開いたり、政治論文を作成したりすることができ、消耗するたびに、フリーナの状態に応じて追加のボーナスを得ることができます。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FURINA_STRATEGY">
+			<Text>オペラ俳優は、コンサートを開いたり、政治論文を作成したりすることができ、消耗するたびに、フリーナの状態に応じて追加のボーナスを獲得します。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_FURINA_TEXT">
+			<Text>オペラ俳優</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA">
+			<Text>アルケーの力: ウーシア</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_HELP">
+			<Text>戦闘力25%増加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_THEMING_BONUS_HELP">
+			<Text>ボーナスを受け取るには、すべての傑作スロットを同じ時代に同じ文明が作った音楽で埋めてください。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_FURINA">
+			<Text>プリマドンナ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_DUMMY">
+			<Text>무대 등장</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_DUMMY_HELP">
+			<Text>이 유닛은 문명이라는 무대에 등장했습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FURINA_ARKHE">
+			<Text>アルケーの力を変更できるまで{1_FurinaArkheTurn}ターン残っています。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_ARKHE_2">
+			<Text>下段のボタンを押して、アルケーの力を欲しいものに変更できます。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FURINA_OUSIA_INFO">
+			<Text>アルケーの力: ウーシア[NEWLINE]--------------------[NEWLINE]ウーシア状態の場合、すべての地上ユニットが淡水の近くで戦闘力が 25% 増加します。 加えてオペラハウスのテーマボーナス条件を満たした場合、その都市で軍事ユニット生産時の経験値を15提供します。 さらに、オペラ俳優を消耗するたびに、自分のターン当たりの観光分だけ追加で観光を伝播します。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_PNEUMA_INFO">
+			<Text>アルケーの力: プネウマ[NEWLINE]--------------------[NEWLINE]プネウマ状態の場合、毎ターンごとにすべての地上ユニットが淡水の近くで体力を10ずつ回復します。 さらに、オペラハウスのテーマボーナス条件を満たした場合、黄金期の点数を1ターンごとに10ずつ獲得します。 さらに、オペラ俳優を消耗するたびに、自分のターン当たり文化ほどの文化を直ちに得ます。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_C4T">
+			<Text>ヌヴィレット [ICON_PRODUCTION][ICON_GREAT_PEOPLE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_DESC">
+			<Text>フォンテーヌ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_HEADING_1">
+			<Text>フォンテーヌ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_TEXT_1">
+			<Text>フォンテーヌ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_TITLE">
+			<Text>フォンテーヌ(ヌヴィレット)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_SHORT_DESC">
+			<Text>フォンテーヌ(ヌヴィレット)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_ADJECTIVE">
+			<Text>フォンテーヌ(ヌヴィレット)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_NEUVILLETTE_TEXT">
+			<Text>フォンテーヌ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_00">
+			<Text>フォンテーヌ廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_01">
+			<Text>エピクレシス歌劇場</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_02">
+			<Text>ルキナの泉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_03">
+			<Text>ポート・マルコット</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_04">
+			<Text>ロマリタイムハーバー</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_05">
+			<Text>オトンヌキ山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_06">
+			<Text>ポワソン町</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_07">
+			<Text>エリナス</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_08">
+			<Text>メロピデ要塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_09">
+			<Text>新フォンテーヌ科学院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_10">
+			<Text>エリニュス山林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_11">
+			<Text>ペトリック</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_12">
+			<Text>希望之路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_13">
+			<Text>サラシア大海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_14">
+			<Text>エルトン海溝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_15">
+			<Text>エスス山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_16">
+			<Text>レムリア</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_17">
+			<Text>閉ざされた遺跡の塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_18">
+			<Text>マリアン記念公園</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_0">
+			<Text>蛍</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_1">
+			<Text>リオセスリ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_2">
+			<Text>シャルロット</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_3">
+			<Text>クロリンデ</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_4">
+			<Text>シュヴルーズ</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_5">
+			<Text>フリーナ</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_6">
+			<Text>フォカロルス</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_7">
+			<Text>シグウィン</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_8">
+			<Text>ナヴィア</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_9">
+			<Text>リネット</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE">
+			<Text>ヌヴィレット</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_HEADING_1">
+			<Text>ヌヴィレット</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_TEXT_1">
+			<Text>ヌヴィレット</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_NAME">
+			<Text>ヌヴィレット</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_SUBTITLE">
+			<Text>フォンテーヌ最高裁判事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_TITLES_1">
+			<Text>フォンテーヌ最高裁判事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEUVILLETTE">
+			<Text>敵に非難や宣戦布告を受けたり、自分のユニットが取り除かれたり、自分に敵対的な文明のユニットを取り除かれるたびに審判ゲージが蓄積されます。 審判ゲージが最大になったときに、敵都市を指定して審判することができます。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEUVILLETTE_SHORT">
+			<Text>告諭の潮騒</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_DESC">
+			<Text>法廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_HELP">
+			<Text>裁判所に取って代わります。 裁判所とは異なり、すべての都市に建てることができ、維持費が既存の裁判所に比べて低いです。 毎ターンごとに審判ゲージを少量蓄積し、この建物が建てられた都市が淡水を挟んでいる場合、さらに大きく増加させます。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_STRATEGY">
+			<Text>法廷は裁判所とは異なり、すべての都市に建てることができ、維持費が既存の裁判所に比べて低いです。 毎ターンごとに審判ゲージを少量蓄積し、この建物が建てられた都市が淡水を挟んでいる場合、さらに大きく増加させます。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NEUVILLETTE_PEDIA">
+			<Text>法廷</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_DESC">
+			<Text>マレショーセ・ファントム</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_HELP">
+			<Text>警察署を代替します。警察隊がなくてもすることができます。毎ターンごとに審判ゲージを少量蓄積させ、都市の防諜率を大幅に増加させ、この建物が建てられた都市が淡水をはめている場合、さらに大きく増加させます。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_STRATEGY">
+			<Text>マレショーセ・ファントムは警察隊がなくてもすることができます。毎ターンごとに審判ゲージを少量蓄積させ、都市の防諜率を大幅に増加させ、この建物が建てられた都市が淡水をはめている場合、さらに大きく増加させます。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NEUVILLETTE_2_PEDIA">
+			<Text>マレショーセ・ファントム</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEUVILLETTE_JUDGMENT_PROGRESS">
+			<Text>審判ゲージ[NEWLINE][NEWLINE]ヌヴィレットは、特定の行動を通じて審判ゲージを得ることができます。 審判ゲージが300以上になると、棒バーをクリックした後、他の文明の都市や都市国家を指定して審判することができます（ゲージ300消耗）。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEUVILLETTE_JUDGMENT_PROGRESS_2">
+			<Text>審判ゲージ : [COLOR:128:198:148:255]{1_Num} / 300[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag='TXT_KEY_ALERT_NEUVILLETTE_JUDGMENT'>
+			<Text>都市を審判しました。</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

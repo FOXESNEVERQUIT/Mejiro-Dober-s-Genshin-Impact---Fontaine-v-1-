@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2023-09-17 오후 5:27:29 -->
+<GameData>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_FIRSTGREETING_1">
+			<Text>Greetings. I am the Chief Justice, or "Iudex" of Fontaine, but you may simply address me by using my surname, "Neuvillette." Not because I wish to keep my distance from you... No, I am merely conscious that being overly familiar may bring the impartiality of the judiciary into question in some people's eyes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_DEFEATED_1">
+			<Text>I'm sure I'll be back when the waves come back...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_LETSHEARIT">
+			<Text>What will you offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_GREETING_POLITE_1">
+			<Text>Greeting. What business do you have today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_GREETING_NEUTRAL_1">
+			<Text>Welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_GREETING_HOSTILE_1">
+			<Text>I am doing official business, and have no time to spare on the likes of you.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your people are an affluent one, I see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_RESEARCH_AGREEMENT_OFFER">
+			<Text>Will you not sign a research agreement with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_DECLARE_FRIENDSHIP_1">
+			<Text>I usually keep my distance with others to be impartial. But a friendship with you should not prove problematic. I will lend you my strength.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_LUXURY_TRADE_1">
+			<Text>This resource is what we need. Will you not agree to a trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I'd like our nations to open our borders and exchange goods and culture. What say you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_RENEW_DEAL_1">
+			<Text>It was a fine deal. Shall we continue this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_RETURNED_CIVILIAN_1">
+			<Text>Thank you for freeing our prisoned people.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>If you admit your espionage without resistance, I will forgive that transgression just this once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>You are either bold or brazen to send spies even though you know they will be caught.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_KILLED_YOUR_SPY_1">
+			<Text>Your spy is full of holes to say the least.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Law and order can only exist on the back of might. Empty words like freedom and equality only dirsupts it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_SAME_POLICIES_FREEDOM_1">
+			<Text>Law and order can only exist on the foundation of freedom and equality. Law and order without those things are mere barbarity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_SAME_POLICIES_ORDER_1">
+			<Text>Law and order can only exist through revoultion. Law and order not found through revolution is merely a tool of the bourgeoisie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I have no intent on matching your offer.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_NEUVILLETTE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are going to listen to the performance at the Epichles Opera House and apply for the Marechaussee Phantom. I'm worried that your Fontaine will eat into the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I did not expect Fontaine to prosper like this.</Text>
+		</Row>
+
+
+		<!--푸리나-->
+		<Row Tag="TXT_KEY_LEADER_FURINA_FIRSTGREETING_1">
+			<Text>Why are you just standing there with your mouth gaping? Ah, you must be stunned and at a loss for words... Understandable, it is I after all... Fontaine's most beloved star, Furina. I'm on a very tight schedule, so you're lucky to even get an appointment with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_DEFEATED_1">
+			<Text>Is this... a form of liberation?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_NEUTRAL_1">
+			<Text>Hi?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_NEUTRAL_2">
+			<Text>What's up?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_LUXURY_TRADE_1">
+			<Text>That resource is what we need, so why don't you trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_STRATEGIC_TRADE_1">
+			<Text>That resource is what we need, so why don't you trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>There will be a lot of benefits for each other if we open our borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_LETSHEARIT_1">
+			<Text>Do you have any suggestions?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_POLITE_1">
+			<Text>Hi. Would you like to chat with me if you don't mind?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_POLITE_2">
+			<Text>Originally, you can't meet me easily, but you're an exception.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_POLITE_3">
+			<Text>Did you come to see my performance?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_HOSTILE_1">
+			<Text>I don't have time to see you because I'm busy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_HOSTILE_2">
+			<Text>I don't want to see you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You look pretty rich. If you don't mind, why don't you sponsor our stage later?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I'm sorry, but I can't afford to meet the proposal.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Did you just spy on me? You have a lot of guts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>I don't want to, but if you admit to being a spy, I'll overlook you for once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_CAUGHT_YOUR_SPY_1">
+			<Text>Your spy is really full of loopholes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_KILLED_YOUR_SPY_1">
+			<Text>What a waste of a spy's life, it's pathetic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Wouldn't it be better to make a research agreement with each other?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Those who lead the stage need strong power and leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_SAME_POLICIES_FREEDOM_1">
+			<Text>The importance of freedom and equality on the stage is, to say the least, painful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_SAME_POLICIES_ORDER_1">
+			<Text>A stage without a revolution is nothing but a deep-rooted evil. It's about flipping everything and creating a new stage.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_DECLARE_FRIENDSHIP_1">
+			<Text>Wouldn't it be better to form an alliance with each other?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_DOF_FRIENDS_1">
+			<Text>Our alliance is strong, right? Then it goes without saying.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_DOF_OLD_FRIENDS_1">
+			<Text>Our alliance is strong, right? Then it goes without saying.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_DOF_BATTLE_BROTHERS_1">
+			<Text>Wouldn't it be better to form an alliance with each other?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_RENEW_DEAL_1">
+			<Text>I liked this deal. Do you want to trade again?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Okay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>Let's do it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_ACCEPT_GENEROUS_1">
+			<Text>Thank you for your consideration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_ACCEPT_GENEROUS_2">
+			<Text>I thank you on behalf of Fontaine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>Do you have any other suggestions?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>The proposal is not very attractive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_REJECT_INSULTING_1">
+			<Text>I'm not interested in the proposal at all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_REJECT_INSULTING_2">
+			<Text>That's a ridiculous suggestion?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_RETURNED_CIVILIAN_1">
+			<Text>Thank you for saving Fontaine's citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_FURINA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are fascinated by your stage and want to become Opera Actors. I am worried that your Fontaine will eat into the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>As expected, my performance has the power to attract everyone. It feels good to see so many people come to see my performance?</Text>
+		</Row>
+	</Language_ja_JP>
+	<Language_ZH_Hant_HK>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_FIRSTGREETING_1">
+			<Text>Greetings. I am the Chief Justice, or "Iudex" of Fontaine, but you may simply address me by using my surname, "Neuvillette." Not because I wish to keep my distance from you... No, I am merely conscious that being overly familiar may bring the impartiality of the judiciary into question in some people's eyes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_DEFEATED_1">
+			<Text>I'm sure I'll be back when the waves come back...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_LETSHEARIT">
+			<Text>What will you offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_GREETING_POLITE_1">
+			<Text>Greeting. What business do you have today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_GREETING_NEUTRAL_1">
+			<Text>Welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_GREETING_HOSTILE_1">
+			<Text>I am doing official business, and have no time to spare on the likes of you.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your people are an affluent one, I see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_RESEARCH_AGREEMENT_OFFER">
+			<Text>Will you not sign a research agreement with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_DECLARE_FRIENDSHIP_1">
+			<Text>I usually keep my distance with others to be impartial. But a friendship with you should not prove problematic. I will lend you my strength.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_LUXURY_TRADE_1">
+			<Text>This resource is what we need. Will you not agree to a trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I'd like our nations to open our borders and exchange goods and culture. What say you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_RENEW_DEAL_1">
+			<Text>It was a fine deal. Shall we continue this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_RETURNED_CIVILIAN_1">
+			<Text>Thank you for freeing our prisoned people.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>If you admit your espionage without resistance, I will forgive that transgression just this once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>You are either bold or brazen to send spies even though you know they will be caught.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_KILLED_YOUR_SPY_1">
+			<Text>Your spy is full of holes to say the least.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Law and order can only exist on the back of might. Empty words like freedom and equality only dirsupts it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_SAME_POLICIES_FREEDOM_1">
+			<Text>Law and order can only exist on the foundation of freedom and equality. Law and order without those things are mere barbarity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_SAME_POLICIES_ORDER_1">
+			<Text>Law and order can only exist through revoultion. Law and order not found through revolution is merely a tool of the bourgeoisie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I have no intent on matching your offer.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_NEUVILLETTE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are going to listen to the performance at the Epichles Opera House and apply for the Marechaussee Phantom. I'm worried that your Fontaine will eat into the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I did not expect Fontaine to prosper like this.</Text>
+		</Row>
+
+
+		<!--푸리나-->
+		<Row Tag="TXT_KEY_LEADER_FURINA_FIRSTGREETING_1">
+			<Text>Why are you just standing there with your mouth gaping? Ah, you must be stunned and at a loss for words... Understandable, it is I after all... Fontaine's most beloved star, Furina. I'm on a very tight schedule, so you're lucky to even get an appointment with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_DEFEATED_1">
+			<Text>Is this... a form of liberation?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_NEUTRAL_1">
+			<Text>Hi?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_NEUTRAL_2">
+			<Text>What's up?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_LUXURY_TRADE_1">
+			<Text>That resource is what we need, so why don't you trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_STRATEGIC_TRADE_1">
+			<Text>That resource is what we need, so why don't you trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>There will be a lot of benefits for each other if we open our borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_LETSHEARIT_1">
+			<Text>Do you have any suggestions?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_POLITE_1">
+			<Text>Hi. Would you like to chat with me if you don't mind?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_POLITE_2">
+			<Text>Originally, you can't meet me easily, but you're an exception.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_POLITE_3">
+			<Text>Did you come to see my performance?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_HOSTILE_1">
+			<Text>I don't have time to see you because I'm busy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_HOSTILE_2">
+			<Text>I don't want to see you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You look pretty rich. If you don't mind, why don't you sponsor our stage later?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I'm sorry, but I can't afford to meet the proposal.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Did you just spy on me? You have a lot of guts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>I don't want to, but if you admit to being a spy, I'll overlook you for once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_CAUGHT_YOUR_SPY_1">
+			<Text>Your spy is really full of loopholes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_KILLED_YOUR_SPY_1">
+			<Text>What a waste of a spy's life, it's pathetic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Wouldn't it be better to make a research agreement with each other?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Those who lead the stage need strong power and leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_SAME_POLICIES_FREEDOM_1">
+			<Text>The importance of freedom and equality on the stage is, to say the least, painful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_SAME_POLICIES_ORDER_1">
+			<Text>A stage without a revolution is nothing but a deep-rooted evil. It's about flipping everything and creating a new stage.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_DECLARE_FRIENDSHIP_1">
+			<Text>Wouldn't it be better to form an alliance with each other?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_DOF_FRIENDS_1">
+			<Text>Our alliance is strong, right? Then it goes without saying.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_DOF_OLD_FRIENDS_1">
+			<Text>Our alliance is strong, right? Then it goes without saying.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_DOF_BATTLE_BROTHERS_1">
+			<Text>Wouldn't it be better to form an alliance with each other?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_RENEW_DEAL_1">
+			<Text>I liked this deal. Do you want to trade again?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Okay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>Let's do it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_ACCEPT_GENEROUS_1">
+			<Text>Thank you for your consideration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_ACCEPT_GENEROUS_2">
+			<Text>I thank you on behalf of Fontaine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>Do you have any other suggestions?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>The proposal is not very attractive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_REJECT_INSULTING_1">
+			<Text>I'm not interested in the proposal at all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_TRADE_REJECT_INSULTING_2">
+			<Text>That's a ridiculous suggestion?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_RETURNED_CIVILIAN_1">
+			<Text>Thank you for saving Fontaine's citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_FURINA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are fascinated by your stage and want to become Opera Actors. I am worried that your Fontaine will eat into the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FURINA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>As expected, my performance has the power to attract everyone. It feels good to see so many people come to see my performance?</Text>
+		</Row>
+	</Language_ZH_Hant_HK>
+</GameData>

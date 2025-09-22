@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="82070e74-44ad-4e18-b367-9d476cba29cb" version="1">
+  <Properties>
+    <Name>Mejiro Dober's Genshin Impact - Fontaine</Name>
+    <Teaser>느비예트와 푸리나가 이끄는 폰타인 문명을 추가합니다.</Teaser>
+    <Description>느비예트와 푸리나가 이끄는 폰타인 문명을 추가합니다.</Description>
+    <Authors>Mejiro Dober</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+  </References>
+  <Blocks>
+    <Mod id="e529a0a6-a1bd-49df-a3e4-202bd77cf3da" minversion="0" maxversion="999" title="Mejiro Dober's Neuvillette - Fontaine" />
+    <Mod id="dfcedadc-5c0d-482e-a1d1-98ce94f7b9e0" minversion="0" maxversion="999" title="Mejiro Dober's Furina - Fontaine" />
+  </Blocks>
+  <Files>
+    <File md5="C756D043D4DFBCFA6629EF027C4A3A8C" import="1">Art/FurinaAlpha128.dds</File>
+    <File md5="7017BBA4E2F134AA684B4F8A3B0B1316" import="1">Art/FurinaAlpha16.dds</File>
+    <File md5="9B16F818BE980472FAC6CFCC5E6CA6E4" import="1">Art/FurinaAlpha24.dds</File>
+    <File md5="727E63D6876E45985DF86AF626A6EB2D" import="1">Art/FurinaAlpha32.dds</File>
+    <File md5="7659F2E0C477A9EF6F678274FFA2BBF0" import="1">Art/FurinaAlpha45.dds</File>
+    <File md5="72EB19841F14D4AAC334524ED8DACAD0" import="1">Art/FurinaAlpha48.dds</File>
+    <File md5="F1B7F126E7028B6CA6F7B154B9F92B81" import="1">Art/FurinaAlpha64.dds</File>
+    <File md5="BF37E2E4EAC4C003515C48AEC0088E60" import="1">Art/FurinaAlpha80.dds</File>
+    <File md5="39D9BBC49C3608994EC072E0B85E4C48" import="1">Art/FurinaAtlas128.dds</File>
+    <File md5="1879CDC1099A31701A8D2A27B54D3460" import="1">Art/FurinaAtlas256.dds</File>
+    <File md5="AA5F81F2E3717813CC1003DEE10A3562" import="1">Art/FurinaAtlas32.dds</File>
+    <File md5="06D234017E212BAFF99AC2068254293D" import="1">Art/FurinaAtlas45.dds</File>
+    <File md5="6F865B3B3C418DF9A42D4CC9A37A0243" import="1">Art/FurinaAtlas64.dds</File>
+    <File md5="B949098A7944E0E026D10D511EFCF7CC" import="1">Art/FurinaAtlas80.dds</File>
+    <File md5="17622D9FB865CE17CD9EEBFA030BE715" import="1">Art/FurinaLoading.dds</File>
+    <File md5="893E06794E34C5D655FAA15814AB1EC1" import="1">Art/FurinaMap.dds</File>
+    <File md5="B907C581DB439B78230B375636044C2C" import="1">Art/FurinaScene.dds</File>
+    <File md5="3B2C8A832CFDF0FACE0E874A4B116F9D" import="1">Art/Furina_Background_Timer.dds</File>
+    <File md5="C1C4BB1BB4E165CAF834C1F2B1841762" import="1">Art/Furina_Ousia.dds</File>
+    <File md5="01E773BF61A386220D5A33A361AF0CC6" import="1">Art/Furina_Overlay.dds</File>
+    <File md5="376CD3D6D6B21664976FAF106A961805" import="1">Art/Furina_Pneuma.dds</File>
+    <File md5="6495AD95E19EAB1EDB547F4B159676F1" import="1">Art/NeuvilletteAlpha128.dds</File>
+    <File md5="7479E01D398C51BD348EB633FAF33AEE" import="1">Art/NeuvilletteAlpha16.dds</File>
+    <File md5="060677507E2484665A0DCB8E5828817C" import="1">Art/NeuvilletteAlpha24.dds</File>
+    <File md5="E6A7F39C3EE68D5FC8F8B34C6B18A984" import="1">Art/NeuvilletteAlpha32.dds</File>
+    <File md5="F7A51BF68BE800E610350A8D657B86A6" import="1">Art/NeuvilletteAlpha45.dds</File>
+    <File md5="282EF98A0F762B36AE20A2AF42C79B4F" import="1">Art/NeuvilletteAlpha48.dds</File>
+    <File md5="4C4527551BFAD63C096CD4B39492F874" import="1">Art/NeuvilletteAlpha64.dds</File>
+    <File md5="D495375B316C6CE88C64DBD23C542140" import="1">Art/NeuvilletteAlpha80.dds</File>
+    <File md5="F2E774502DD2A57921786D6F8ECF64CC" import="1">Art/NeuvilletteAtlas128.dds</File>
+    <File md5="9E06FB3C2A6A59FFC9F2B8102A6F7BD4" import="1">Art/NeuvilletteAtlas256.dds</File>
+    <File md5="E73AD1AA3F42A631B04DE6BF347E1A18" import="1">Art/NeuvilletteAtlas32.dds</File>
+    <File md5="035160AB64FB6D081890B7C39467E30F" import="1">Art/NeuvilletteAtlas45.dds</File>
+    <File md5="493FBE8E08D1A978BBD36A9F703656E6" import="1">Art/NeuvilletteAtlas64.dds</File>
+    <File md5="1B110389E0E325BA052F4725CC9AAEB8" import="1">Art/NeuvilletteAtlas80.dds</File>
+    <File md5="90278D6C24D7A072753113401B4AA86F" import="1">Art/NeuvilletteJudgment64.dds</File>
+    <File md5="BAEACBDB779BBA227A827F4EF05B68B4" import="1">Art/NeuvilletteLoading.dds</File>
+    <File md5="893E06794E34C5D655FAA15814AB1EC1" import="1">Art/NeuvilletteMap.dds</File>
+    <File md5="87F20BDEAFC917A6C8DE208BCAE7F701" import="1">Art/NeuvilletteScene.dds</File>
+    <File md5="1D3E7D5819D0232C00EAEE0513BAD9EC" import="1">Art/Neuvillette_UI_Overlay.dds</File>
+    <File md5="74B07E2652D648BECDCB1320804D9946" import="0">Core/Furina_ArtDefines.sql</File>
+    <File md5="11F8F4B8620692D321B2B0B814C4E984" import="0">Core/Furina_GameDefines.sql</File>
+    <File md5="A1979F9F44AE911A3CBF9778B9A724DD" import="0">Core/Furina_GameDefines_Diplomacy.sql</File>
+    <File md5="5E156F3FBC50814B68A1349FAD5CE919" import="0">Core/Furina_GameText_Diplomacy.xml</File>
+    <File md5="92696D2C2A5C3666AE02F9D5E21879DF" import="0">Core/Furina_GameText_Diplomacy_2.xml</File>
+    <File md5="E52B52FE460AFAC2DAB686B8AFB744DB" import="0">Core/Furina_GameText_en_US.xml</File>
+    <File md5="EF0B1B6C4E1E71B5657C109947FEDE12" import="0">Core/Furina_GameText_ja_JP.xml</File>
+    <File md5="F7A72AAE55B5AFDF99354B55FDD6C891" import="0">Core/Furina_GameText_ko_KR.xml</File>
+    <File md5="5B73EC33CF3A287485297C2216DF7FDC" import="0">Core/Furina_GameText_ZH_Hant_HK.xml</File>
+    <File md5="1705FACF37AE06E6E90FEFF22AB38801" import="0">Core/Furina_OperaActorArt.sql</File>
+    <File md5="E3C89E09A5FA7DC97E015DB580FD8134" import="1">Core/Furina_Scene.xml</File>
+    <File md5="C679C50AA9C35983E1F441799A7558FB" import="1">Core/Neuvillette_Scene.xml</File>
+    <File md5="AA0EAE665A3C9D4FBA8855568C2AFCA6" import="0">Lua/FurinaFunction.lua</File>
+    <File md5="6E9A4443C98358DA3652F1676487B55E" import="0">Lua/FurinaFunction.xml</File>
+    <File md5="40BD15A8DAEE89926EBFF6897934D67C" import="0">Lua/NeuvilletteFunction.lua</File>
+    <File md5="C5A56D8424A7FC8A24E691AECF7C3D84" import="0">Lua/NeuvilletteFunction.xml</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/Util/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/Util/CultureOverview.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Util/PlotIterators.lua</File>
+    <File md5="CE2063A45BDDE9FEDD4B74778D548C69" import="1">Lua/Util/SaveUtils_Suk_V2.lua</File>
+    <File md5="9F64597D2D81862F412ABBED2C2A9A40" import="1">Lua/Util/UniqueCulturalInfluence.lua</File>
+    <File md5="FA86F5D3233D90C5CEB61E48091F4483" import="0">ModCompatibility/ModCompatibility.sql</File>
+    <File md5="24A566EA82124EC8C6BCE75EDC28795C" import="1">Music/FurinaArkheAusia1.mp3</File>
+    <File md5="04690359A1BE9B3466AA193779590B69" import="1">Music/FurinaArkheAusia2.mp3</File>
+    <File md5="3C82BA0A93A80379DDF26D92118C2D64" import="1">Music/FurinaArkheAusia3.mp3</File>
+    <File md5="3FCA755FA7980037ECB82C17273BAD0C" import="1">Music/FurinaArkhePneuma1.mp3</File>
+    <File md5="2B2BEC9EFEE87B4FD29B534F6F32B7D6" import="1">Music/FurinaArkhePneuma2.mp3</File>
+    <File md5="79AE8808B25551CECC6E41D3DC52D080" import="1">Music/FurinaArkhePneuma3.mp3</File>
+    <File md5="60124414D1BEBD50E49DD25DCFC3D242" import="1">Music/FurinaSoundTrack.mp3</File>
+    <File md5="2325420831E1B03E216F3BB888E83A04" import="1">Music/FurinaSoundTrackPeace.mp3</File>
+    <File md5="D15DF2C5F9221E12F5029CF1543396A3" import="1">Music/FurinaSoundTrackWar.mp3</File>
+    <File md5="8BF8493ECEE4745358D49D27A55446F2" import="1">Music/NeuvilletteJudgment.wav</File>
+    <File md5="60124414D1BEBD50E49DD25DCFC3D242" import="1">Music/NeuvilletteSoundTrack.mp3</File>
+    <File md5="BCDDA12400DB8329F161E0DAE04E1B27" import="1">Music/NeuvilletteSoundTrackPeace.mp3</File>
+    <File md5="C3869D11B7BEB90AAF237787F4E26C44" import="1">Music/NeuvilletteSoundTrackWar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Furina_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_GameText_Diplomacy_2.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_GameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_GameText_ja_JP.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_GameText_ko_KR.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_GameText_ZH_Hant_HK.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Furina_OperaActorArt.sql</UpdateDatabase>
+      <UpdateDatabase>ModCompatibility/ModCompatibility.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Util/UniqueCulturalInfluence.lua">
+      <Name>UniqueCulturalInfluence</Name>
+      <Description>UniqueCulturalInfluence</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/FurinaFunction.lua">
+      <Name>FurinaFunction</Name>
+      <Description>FurinaFunction</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/NeuvilletteFunction.lua">
+      <Name>NeuvilletteFunction</Name>
+      <Description>NeuvilletteFunction</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

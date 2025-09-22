@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Box ID="NeuvilletteBackground" Hidden="0" Anchor="C,T" Size="280,35" Offset="0,60" Color="0,0,0,0" ConsumeMouse="1">
+		<Grid Size="1,1" Anchor="C,C" Offset="0,0" ConsumeMouse="1">
+			<Button NoStateChange="0" Offset="0,0" Anchor="C,C" Color="255.255.255.0" Size="254,70" ID="NeuvilletteButton">
+				<Image Anchor="C,C" Size="214,29" Offset="0,0" Texture="MeterBarGreatPersonBack.dds">
+					<TextureBar Anchor="C,C" Size="214,29" Texture="MeterBarGreatPersonGold.dds" Direction="Right" ID="NeuvilletteMeter"/>
+					<Image Anchor="C,C" Size="214,29" Texture="MeterBarFrame.dds"/>
+					<ShowOnMouseOver>
+						<AlphaAnim Anchor="C,C"  AnchorSide="O.O" Offset="0,0" Size="205,25" Pause="0" Texture="Neuvillette_UI_Overlay.dds" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25"/>
+					</ShowOnMouseOver>
+					<Label Anchor="C,C" Offset="0,0" Font="TwCenMT24" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Hidden="1" ID="Neuvillette_Activate"/>
+				</Image>
+				<Image Anchor="C,C" AnchorSide="I,O" Offset="0,-22" Size="256,64" Texture="DecTop256x64.dds">
+					<Image Anchor="C,T" Size="64,64" Offset="0,0" Texture="64x64FrameButtons.dds">
+						<Image ID="NeuvilletteJudgmentIcon" Anchor="C,C" Offset="0,0" Size="64,64" Texture="NeuvilletteJudgment64.dds" />
+					</Image>
+				</Image>
+			</Button>
+		</Grid>
+	</Box>
+
+	
+</Context>

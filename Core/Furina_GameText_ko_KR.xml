@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/19/2015 8:38:35 PM -->
+<GameData>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_FURINA_C4T">
+			<Text>푸리나 [ICON_CULTURE][ICON_GREAT_PEOPLE]</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_DESC">
+			<Text>폰타인</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_HEADING_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FURINA_TITLE">
+			<Text>[COLOR:73:103:225:255]폰타인(푸리나)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_SHORT_DESC">
+			<Text>[COLOR:73:103:225:255]폰타인(푸리나)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FURINA_ADJECTIVE">
+			<Text>[COLOR:73:103:225:255]폰타인(푸리나)[ENDCOLOR]의</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_FURINA_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_00">
+			<Text>폰타인성</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_01">
+			<Text>에피클레스 오페라 하우스</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_02">
+			<Text>루키나 분수</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_03">
+			<Text>마코트 역</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_04">
+			<Text>바다 이슬 항구</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_05">
+			<Text>오똔산</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_06">
+			<Text>푸아송</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_07">
+			<Text>엘리나스</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_08">
+			<Text>메로피드 요새</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_09">
+			<Text>신 폰타인 과학원</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_10">
+			<Text>에리니에스 숲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_11">
+			<Text>페트리코</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_12">
+			<Text>희망의 길</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_13">
+			<Text>살라키아 해저 평원</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_14">
+			<Text>엘튼 해구</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_15">
+			<Text>에수스 산</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_16">
+			<Text>레무리아</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_17">
+			<Text>봉쇄된 유적 탑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FURINA_18">
+			<Text>마리안 기념 공원</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_0">
+			<Text>루미네</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_1">
+			<Text>라이오슬리</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_2">
+			<Text>샤를로트</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_3">
+			<Text>클로린드</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_4">
+			<Text>슈브르즈</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_5">
+			<Text>느비예트</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_6">
+			<Text>포칼로스</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_7">
+			<Text>시그윈</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_8">
+			<Text>나비아</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FURINA_9">
+			<Text>리넷</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_FURINA">
+			<Text>푸리나</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_HEADING_1">
+			<Text>개요</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_NAME">
+			<Text>푸리나</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_SUBTITLE">
+			<Text>모든 물과 백성, 그리고 법을 다스리는 여왕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FURINA_TITLES_1">
+			<Text>모든 물과 백성, 그리고 법을 다스리는 여왕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FURINA">
+			<Text>상단 패널을 이용해 아르케의 힘을 프뉴마 또는 우시아로 전환할 수 있으며 각 힘에 따라 적용되는 특성이 달라집니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FURINA_SHORT">
+			<Text>멈추지 않는 독무</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_FURINA_DESC">
+			<Text>오페라 하우스</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FURINA_HELP">
+			<Text>오페라 극장을 대체합니다. 걸작 음악 슬롯과 음악가 전문가 슬롯을 각각 2개씩 보유하며 걸작 슬롯을 같은 시대에 같은 문명이 만든 음악으로만 채웠을 경우 테마 보너스 및 푸리나의 상태에 따라 각기 다른 보너스를 제공합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FURINA_STRATEGY">
+			<Text>오페라 하우스의 걸작 슬롯을 같은 시대에 같은 문명이 만든 음악으로만 채웠을 경우 테마 보너스 및 푸리나의 상태에 따라 각기 다른 보너스를 제공합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FURINA_PEDIA">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FURINA">
+			<Text>오페라 배우</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FURINA_HELP">
+			<Text>푸리나만의 고유 유닛입니다. 위대한 음악가 또는 작가가 탄생했을 때 등장합니다. 콘서트를 열거나 정치 논문을 작성할 수 있으며 소모할 때마다 푸리나의 상태에 따라 추가 보너스를 얻습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FURINA_STRATEGY">
+			<Text>오페라 배우는 콘서트를 열거나 정치 논문을 작성할 수 있으며 소모할 때마다 푸리나의 상태에 따라 추가 보너스를 얻습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_FURINA_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA">
+			<Text>아르케의 힘: 우시아</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_HELP">
+			<Text>전투력 25% 증가</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_THEMING_BONUS_HELP">
+			<Text>보너스를 받기 위해서는 모든 걸작 슬롯을 [COLOR_POSITIVE_TEXT]같은 시대[ENDCOLOR]에 [COLOR_POSITIVE_TEXT]같은 문명[ENDCOLOR]이 만든 [COLOR_YELLOW]음악[ENDCOLOR]으로 채우십시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_FURINA">
+			<Text>프리마돈나</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_DUMMY">
+			<Text>무대 등장</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FURINA_DUMMY_HELP">
+			<Text>이 유닛은 문명이라는 무대에 등장했습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FURINA_ARKHE">
+			<Text>아르케의 힘을 변경할 수 있기까지 {1_FurinaArkheTurn}턴 남았습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_ARKHE_2">
+			<Text>하단의 버튼을 눌러 아르케의 힘을 원하는 것으로 변경할 수 있습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FURINA_OUSIA_INFO">
+			<Text>아르케의 힘: 우시아[NEWLINE]--------------------[NEWLINE]우시아 상태일 경우, 모든 지상 유닛이 담수 근처에서 전투력이 25% 증가합니다. 더불어 오페라 하우스의 테마 보너스 조건을 충족시켰을 경우 그 도시에서 군사 유닛 생산 시 경험치를 15 제공하며 더불어 오페라 배우를 소모할 때마다 자신의 턴당 관광만큼 추가로 관광을 전파합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FURINA_PNEUMA_INFO">
+			<Text>아르케의 힘: 프뉴마[NEWLINE]--------------------[NEWLINE]프뉴마 상태일 경우, 매 턴마다 모든 지상 유닛이 담수 근처에서 체력을 10씩 회복합니다. 더불어 오페라 하우스의 테마 보너스 조건을 충족시켰을 경우 황금기 점수를 매 턴마다 10씩 얻으며 오페라 배우를 소모할 때마다 자신의 턴당 문화만큼의 문화를 즉시 얻습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE_C4T">
+			<Text>느비예트 [ICON_PRODUCTION][ICON_GREAT_PEOPLE]</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_DESC">
+			<Text>폰타인</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_HEADING_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEUVILLETTE_TITLE">
+			<Text>[COLOR:46:107:213:255]폰타인(느비예트)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_SHORT_DESC">
+			<Text>[COLOR:46:107:213:255]폰타인(느비예트)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NEUVILLETTE_ADJECTIVE">
+			<Text>[COLOR:46:107:213:255]폰타인(느비예트)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_NEUVILLETTE_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_00">
+			<Text>폰타인성</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_01">
+			<Text>에피클레스 오페라 하우스</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_02">
+			<Text>루키나 분수</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_03">
+			<Text>마코트 역</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_04">
+			<Text>바다 이슬 항구</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_05">
+			<Text>오똔산</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_06">
+			<Text>푸아송</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_07">
+			<Text>엘리나스</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_08">
+			<Text>메로피드 요새</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_09">
+			<Text>신 폰타인 과학원</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_10">
+			<Text>에리니에스 숲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_11">
+			<Text>페트리코</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_12">
+			<Text>희망의 길</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_13">
+			<Text>살라키아 해저 평원</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_14">
+			<Text>엘튼 해구</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_15">
+			<Text>에수스 산</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_16">
+			<Text>레무리아</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_17">
+			<Text>봉쇄된 유적 탑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUVILLETTE_18">
+			<Text>마리안 기념 공원</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_0">
+			<Text>루미네</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_1">
+			<Text>라이오슬리</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_2">
+			<Text>샤를로트</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_3">
+			<Text>클로린드</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_4">
+			<Text>슈브르즈</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_5">
+			<Text>푸리나</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_6">
+			<Text>포칼로스</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_7">
+			<Text>시그윈</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_8">
+			<Text>나비아</Text>
+			<Plurality>2</Plurality>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEUVILLETTE_9">
+			<Text>리넷</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEUVILLETTE">
+			<Text>느비예트</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_HEADING_1">
+			<Text>개요</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_NAME">
+			<Text>느비예트</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_SUBTITLE">
+			<Text>폰타인 최고 심판관</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NEUVILLETTE_TITLES_1">
+			<Text>폰타인 최고 심판관</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEUVILLETTE">
+			<Text>적에게 비난을 당하거나 전쟁 중일 때, 자신의 유닛이 제거되거나 자신에게 적대적인 문명의 유닛이 제거될 때마다 심판 게이지가 축적됩니다. 심판 게이지가 최대가 되었을 때 적 도시를 지정하여 심판할 수 있습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEUVILLETTE_SHORT">
+			<Text>훈시의 파도 소리</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_DESC">
+			<Text>심판청</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_HELP">
+			<Text>법원을 대체합니다. 법원과 달리 모든 도시에 지을 수 있으며 유지비가 기존 법원에 비해 낮습니다. 매 턴마다 심판 게이지를 소량 축적하며 이 건물이 지어진 도시가 담수를 끼고 있을 경우 더 크게 증가시킵니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_STRATEGY">
+			<Text>심판청은 법원과 달리 모든 도시에 지을 수 있으며 유지비가 기존 법원에 비해 낮습니다. 매 턴마다 심판 게이지를 소량 축적하며 이 건물이 지어진 도시가 담수를 끼고 있을 경우 더 크게 증가시킵니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NEUVILLETTE_PEDIA">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_DESC">
+			<Text>그림자 수사청</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_HELP">
+			<Text>경찰서를 대체합니다. 경찰대 없이도 지을 수 있습니다. 매 턴마다 심판 게이지를 소량 축적시키고 도시의 방첩률을 크게 증가시키며 이 건물이 지어진 도시가 담수를 끼고 있을 경우 더 크게 증가시킵니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUVILLETTE_2_STRATEGY">
+			<Text>그림자 수사청은 매 턴마다 심판 게이지를 소량 축적시키고 도시의 방첩률을 크게 증가시키며 이 건물이 지어진 도시가 담수를 끼고 있을 경우 더 크게 증가시킵니다</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NEUVILLETTE_2_PEDIA">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NEUVILLETTE_JUDGMENT_PROGRESS">
+			<Text>심판 게이지[NEWLINE][NEWLINE]느비예트는 특정 행동을 통해 심판 게이지를 얻을 수 있습니다. 심판 게이지가 300 이상이 되면 막대바를 클릭한 뒤 다른 문명의 도시나 도시국가를 지정하여 심판할 수 있습니다(게이지 300 소모).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NEUVILLETTE_JUDGMENT_PROGRESS_2">
+			<Text>심판 게이지 : [COLOR:128:198:148:255]{1_Num} / 300[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag='TXT_KEY_ALERT_NEUVILLETTE_JUDGMENT'>
+			<Text>도시를 심판했습니다.</Text>
+		</Row>
+	</Language_ko_KR>
+</GameData>
